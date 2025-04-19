@@ -38,9 +38,9 @@ Schematic diagram(Proteus): <img src="https://github.com/Shubham210204/Digital-T
 <br>
 Layout(Proteus): <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/layout.png"> <br>
 <br>
-PCB Front: <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/PCB Front.png"> <br>
+PCB Front: <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/PCB%20Front.jpg"> <br>
 <br>
-PCB Back: <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/PCB Back.png"> <br>
+PCB Back: <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/PCB%20Back.jpg"> <br>
 
 ---
 
