@@ -34,13 +34,13 @@ A multi-functional **Digital Trainer Kit** designed to assist students and elect
 - Equipped with **banana sockets**, **LED indicators**, and **resistors**.
 - Supports external device connectivity and real-time signal visualization.
 
-Schematic diagram(Proteus): <img src=""> <br>
+Schematic diagram(Proteus): <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/schematic.png"> <br>
 <br>
-Layout(Proteus): <img src=""> <br>
+Layout(Proteus): <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/layout.png"> <br>
 <br>
-PCB Front: <img src=""> <br>
+PCB Front: <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/PCB Front.png"> <br>
 <br>
-PCB Back: <img src=""> <br>
+PCB Back: <img src="https://github.com/Shubham210204/Digital-Trainer-Kit/blob/main/PCB Back.png"> <br>
 
 ---
 
